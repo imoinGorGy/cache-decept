@@ -118,15 +118,8 @@ python3 cache_decept.py -f urls.txt -ck "session=..." \
 
 ## 📸 Example Output
 
-```text
-💥💥💥 CACHE DECEPTION FOUND! 💥💥💥
-  URL:     https://target.com/api/user/profile
-  Variant: https://target.com/api/user/profile8f3a1b2c.css
-  Type:    extension.css
-  Cache:   HIT | Control: public, max-age=3600
-  No-Auth: 200 | Len: 4023
-────────────────────────────────────────────────
-```
+<img width="1093" height="684" alt="cache-decept" src="https://github.com/user-attachments/assets/4b092a6d-5fda-4fe0-a430-a522053e840e" />
+
 
 ## 🔍 Understanding the Vulnerability
 
